@@ -1,4 +1,4 @@
-# 👾 Pacpy-Python
+#  Pacpy-Python
 
 ## English Version
 **Pacpy-Python** is a basic game created in Python, inspired by the classic Pacman structure. In this simple yet engaging game, you control **Pacpy**, represented by the letter **P**, as you navigate through a maze while avoiding the **Fasboos**.
